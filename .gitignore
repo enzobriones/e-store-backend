@@ -1,0 +1,9 @@
+# environment
+.env
+
+# database
+/mongo
+
+# node
+/node_modules
+package-lock.json
